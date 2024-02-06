@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2"
+        "motor": "github:DFRobot/pxt-motor#2cdf17586556c5a532782aa436c516ae50f5f316"
     },
     "files": [
         "main.blocks",
