@@ -3,6 +3,7 @@ makecode:
   platform: microbit
   home_url: https://makecode.microbit.org/
 theme: jekyll-theme-slate
+description: " "
 include:
   - assets
   - README.md
